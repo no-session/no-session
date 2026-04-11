@@ -14,10 +14,6 @@
 I'm an **AI Product Manager** focused on taking large language models out of the demo stage and into real user workflows. My day-to-day lives at the intersection of **product strategy, prompt/eval design, and shipping things that work in production**.
 
 - 🔭 Currently working on **AI-native product experiences**
-- 🧪 Thinking a lot about **evals, golden datasets, and human-in-the-loop**
-- ✍️ I write about what I build at **[mrpawankumar.com](https://mrpawankumar.com)**
-- 💬 Ask me about **PRDs for AI features, LLM eval harnesses, or going from 0 → 1**
-
 ---
 
 ### 🛠️ Stack I reach for
