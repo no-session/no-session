@@ -6,11 +6,6 @@
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=no-session&show_icons=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=A1A1AA&bg_color=0D1117&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=no-session&layout=compact&hide_border=true&title_color=6366F1&text_color=A1A1AA&bg_color=0D1117&cache_seconds=1800" />
-
-<br/><br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/no-session/no-session/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/no-session/no-session/output/snake.svg" />
